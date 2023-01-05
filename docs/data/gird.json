@@ -1,0 +1,57 @@
+{
+    "code": 2000,
+    "data": {
+        "list": [
+            {
+                "id": "1",
+                "type": "app",
+                "size": "1x1",
+                "edit": false,
+                "bg": "#ffffff",
+                "title": "壁纸",
+                "url": "tab://wallpaper",
+                "icon": "./icons/wallpaper.svg",
+                "createdTime": 1670930496792,
+                "updateTime": 1670930496792,
+                "showType": "img",
+                "click": false,
+                "txt": "",
+                "noDel": true
+            },
+            {
+                "id": "2",
+                "type": "app",
+                "size": "1x1",
+                "edit": false,
+                "bg": "#ffffff",
+                "title": "添加图标",
+                "url": "tab://add",
+                "icon": "./icons/add.svg",
+                "createdTime": 1670930496792,
+                "updateTime": 1670930496792,
+                "showType": "img",
+                "click": false,
+                "txt": "",
+                "noDel": true
+            },
+            {
+                "id": "3",
+                "type": "app",
+                "size": "1x1",
+                "edit": false,
+                "bg": "#ffffff",
+                "title": "设置",
+                "url": "tab://setting",
+                "icon": "./icons/setting.svg",
+                "createdTime": 1670930496792,
+                "updateTime": 1670930496792,
+                "showType": "img",
+                "click": false,
+                "txt": "",
+                "noDel": true
+            }
+        ],
+        "version": "1.0.0",
+        "update": false
+    }
+}
