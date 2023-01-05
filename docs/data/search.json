@@ -6,7 +6,7 @@
                 "id": 1,
                 "title": "百度",
                 "url": "https://www.baidu.com/s?wd=",
-                "icon": "./icons/baidu.svg",
+                "icon": "https://mankeung.github.io/static/icons/baidu.svg",
                 "createdTime": 1670930496792,
                 "updateTime": 1670930496792
             },
@@ -14,7 +14,7 @@
                 "id": 2,
                 "title": "Google",
                 "url": "https://www.google.com/search?q=",
-                "icon": "./icons/gl.svg",
+                "icon": "https://mankeung.github.io/static/icons/gl.svg",
                 "createdTime": 1670930496792,
                 "updateTime": 1670930496792
             },
@@ -22,7 +22,7 @@
                 "id": 3,
                 "title": "F搜",
                 "url": "https://fsoufsou.com/search?q=",
-                "icon": "./icons/fsou.svg",
+                "icon": "https://mankeung.github.io/static/icons/fsou.svg",
                 "createdTime": 1670930496792,
                 "updateTime": 1670930496792
             },
@@ -30,7 +30,7 @@
                 "id": 4,
                 "title": "Github",
                 "url": "https://github.com/search?q=",
-                "icon": "./icons/github.png",
+                "icon": "https://mankeung.github.io/static/icons/github.png",
                 "createdTime": 1670930496792,
                 "updateTime": 1670930496792
             },
@@ -38,7 +38,7 @@
                 "id": 5,
                 "title": "StackOverflow",
                 "url": "https://stackoverflow.com/nocaptcha?s=",
-                "icon": "./icons/stackoverflow.svg",
+                "icon": "https://mankeung.github.io/static/icons/stackoverflow.svg",
                 "createdTime": 1670930496792,
                 "updateTime": 1670930496792
             },
@@ -46,7 +46,7 @@
                 "id": 6,
                 "title": "抖音",
                 "url": "https://www.douyin.com/search/",
-                "icon": "./icons/dy.svg",
+                "icon": "https://mankeung.github.io/static/icons/dy.svg",
                 "createdTime": 1670930496792,
                 "updateTime": 1670930496792
             },
@@ -54,7 +54,7 @@
                 "id": 7,
                 "title": "MDN",
                 "url": "https://developer.mozilla.org/zh-CN/search?q=",
-                "icon": "./icons/mdn_s.svg",
+                "icon": "https://mankeung.github.io/static/icons/mdn_s.svg",
                 "createdTime": 1670930496792,
                 "updateTime": 1670930496792
             },
@@ -62,7 +62,7 @@
                 "id": 8,
                 "title": "茶杯狐",
                 "url": "https://www.cupfox.app/s/",
-                "icon": "./icons/cbh.png",
+                "icon": "https://mankeung.github.io/static/icons/cbh.png",
                 "createdTime": 1670930496792,
                 "updateTime": 1670930496792
             },
@@ -70,7 +70,7 @@
                 "id": 9,
                 "title": "百度翻译",
                 "url": "https://fanyi.baidu.com/#zh/en/",
-                "icon": "./icons/baidu.ico",
+                "icon": "https://mankeung.github.io/static/icons/baidu.ico",
                 "createdTime": 1670930496792,
                 "updateTime": 1670930496792
             },
@@ -78,7 +78,7 @@
                 "id": 10,
                 "title": "火山翻译",
                 "url": "https://translate.volcengine.com/translate?category=&home_language=zh&source_language=detect&target_language=zh&text=",
-                "icon": "./icons/hs.svg",
+                "icon": "https://mankeung.github.io/static/icons/hs.svg",
                 "createdTime": 1670930496792,
                 "updateTime": 1670930496792
             },
@@ -86,7 +86,7 @@
                 "id": 1991,
                 "title": "自定义",
                 "url": "",
-                "icon": "./icons/custom.svg",
+                "icon": "https://mankeung.github.io/static/icons/custom.svg",
                 "createdTime": 1670930496792,
                 "updateTime": 1670930496792
             }
