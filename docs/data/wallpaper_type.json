@@ -1,0 +1,81 @@
+{
+    "code": 2000,
+    "data": [
+        {
+            "type": "scenery",
+            "title": "风景"
+        },
+        {
+            "type": "animal",
+            "title": "动物"
+        },
+        {
+            "type": "comic",
+            "title": "动漫"
+        },
+        {
+            "type": "game",
+            "title": "游戏"
+        },
+        {
+            "type": "mm",
+            "title": "美女"
+        },
+        {
+            "type": "art",
+            "title": "写真"
+        },
+        {
+            "type": "txt",
+            "title": "文字控"
+        },
+        {
+            "type": "star",
+            "title": "明星时尚"
+        },
+        {
+            "type": "love",
+            "title": "爱情美图"
+        },
+        {
+            "type": "4k",
+            "title": "4k专区"
+        },
+        {
+            "type": "fresh",
+            "title": "小清新"
+        },
+        {
+            "type": "car",
+            "title": "汽车"
+        },
+        {
+            "type": "cool",
+            "title": "炫酷"
+        },
+        {
+            "type": "movie",
+            "title": "影视剧照"
+        },
+        {
+            "type": "military",
+            "title": "军事天地"
+        },
+        {
+            "type": "sport",
+            "title": "体育"
+        },
+        {
+            "type": "baby",
+            "title": "BABY秀"
+        },
+        {
+            "type": "local",
+            "title": "本地壁纸"
+        },
+        {
+            "type": "like",
+            "title": "我的收藏"
+        }
+    ]
+}
