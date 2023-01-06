@@ -9776,6 +9776,22 @@
             "desc": "一言，用代码表达言语的魅力，用代码书写山河的壮丽。本文档提供一言开发接口的使用说明，SDK，常见问题。",
             "class": ["dev"],
             "tag": []
+        },
+        {
+            "type": "app",
+            "size": "1x1",
+            "edit": true,
+            "bg": "#2c7800",
+            "title": "微工具",
+            "url": "http://www.wetools.com/",
+            "icon": "https://mankeung.github.io/static/icons/wgj.png",
+            "createdTime": 1670930496792,
+            "updateTime": 1670930496792,
+            "showType": "img",
+            "txt": "",
+            "desc": "JavaScript 代码压缩工具，提供在线压缩 JavaScript 代码的功能。本工具不是简单的语法替换，而是基于文法分析的代码压缩工具。通过使用 JS 压缩工具，可极大减少具有同样功能的 JS 代码的大小。",
+            "class": ["dev", "tool"],
+            "tag": []
         }
     ]
 }
