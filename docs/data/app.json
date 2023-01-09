@@ -9952,6 +9952,22 @@
             "desc": "97影院是可以免费观看最新电影和同步热播电视剧的极速影院，同时还提供高清电影下载，最新最全的美剧每天第一时间更新，97影院是您观看在线电影的最佳选择！",
             "class": ["av"],
             "tag": []
+        },
+        {
+            "type": "app",
+            "size": "1x1",
+            "edit": true,
+            "bg": "#2507b3",
+            "title": "免费API",
+            "url": "https://api.aa1.cn/",
+            "icon": "https://mankeung.github.io/static/icons/api.png",
+            "createdTime": 1670930496792,
+            "updateTime": 1670930496792,
+            "showType": "img",
+            "txt": "",
+            "desc": "",
+            "class": ["dev", "tool"],
+            "tag": ["ad"]
         }
     ]
 }

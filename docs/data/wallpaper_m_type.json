@@ -1,0 +1,37 @@
+{
+    "code": 2000,
+    "data": [
+        {
+            "type": "m_pexels",
+            "title": "pexels"
+        },
+        {
+            "type": "comic",
+            "title": "动漫"
+        },
+        {
+            "type": "cool",
+            "title": "炫酷"
+        },
+        {
+            "type": "mm",
+            "title": "美女"
+        },
+        {
+            "type": "m_art",
+            "title": "写真"
+        },
+        {
+            "type": "m_other",
+            "title": "其他"
+        },
+        {
+            "type": "local",
+            "title": "本地壁纸"
+        },
+        {
+            "type": "like",
+            "title": "我的收藏"
+        }
+    ]
+}
