@@ -1,0 +1,20 @@
+[
+    {
+        "type": "app",
+        "size": "1x1",
+        "edit": true,
+        "bg": "#ffffff",
+        "title": "FC游戏",
+        "url": "https://fc.zhouxiaoben.info/",
+        "icon": "https://mankeung.github.io/static/icons/fc.png",
+        "createdTime": 1670930496792,
+        "updateTime": 1670930496792,
+        "showType": "img",
+        "desc": "魂斗罗、超级马里奥、坦克大战、三国志、合金弹头这些红白机游戏你是否还记得？小时候的回忆，在小周FC游戏在线都可找回！",
+        "class": [
+            "other",
+            "app"
+        ],
+        "tag": []
+    }
+]

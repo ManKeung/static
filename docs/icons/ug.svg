@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="63px" height="36px" viewBox="0 0 63 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
-    <title>logo</title>
-    <desc>Created with Sketch.</desc>
-    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="画板" transform="translate(0.000000, -1.000000)">
-            <g id="logo" transform="translate(3.000000, 1.000000)">
-                <path d="M53.7382761,9.671998 C53.4416265,9.3111007 53.1275927,8.96502164 52.7974542,8.63503964 C50.2156751,6.05448476 46.6489806,4.45837838 42.7093185,4.45837838 C34.8299945,4.45837838 28.4425403,10.8428039 28.4425403,18.7183919 C28.4425403,26.5939799 34.8299945,32.9784054 42.7093185,32.9784054 C50.5886426,32.9784054 56.9760968,26.5939799 56.9760968,18.7183919 L43.7740035,18.7183919" id="路径" stroke="#95A1FF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"></path>
-                <path d="M6.36332872,6.59554054 C5.57653609,7.12249787 4.84480331,7.7258953 4.1786426,8.39517146 C1.59686355,10.9890248 0,14.5723998 0,18.5304865 C0,26.44666 6.38745418,32.8639865 14.2667782,32.8639865 C22.1461023,32.8639865 28.5335565,26.44666 28.5335565,18.5304865 C28.5335565,14.5723998 26.9366929,10.9890248 24.3549139,8.39517146 C23.6976872,7.73487115 22.9766355,7.13869437 22.2018537,6.61678326" id="路径" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"></path>
-                <ellipse id="椭圆形" fill="#01D5F0" fill-rule="nonzero" transform="translate(14.266778, 2.751932) scale(-1, 1) rotate(-180.000000) translate(-14.266778, -2.751932) " cx="14.2667782" cy="2.75193157" rx="2.7532379" ry="2.75193243"></ellipse>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="63" height="36" fill="none" fill-rule="evenodd" xmlns:v="https://vecta.io/nano"><g stroke-width="6" stroke-linecap="round"><path d="M56.738 9.672l-.941-1.037c-2.582-2.581-6.148-4.177-10.088-4.177-7.879 0-14.267 6.384-14.267 14.26s6.387 14.26 14.267 14.26 14.267-6.384 14.267-14.26H46.774" stroke="#95a1ff" stroke-linejoin="round"/><path d="M9.363 6.596a14.35 14.35 0 0 0-2.185 1.8A14.32 14.32 0 0 0 3 18.53c0 7.916 6.387 14.334 14.267 14.334s14.267-6.417 14.267-14.334a14.32 14.32 0 0 0-4.179-10.135 14.35 14.35 0 0 0-2.153-1.778" stroke="#fff"/></g><ellipse fill="#01d5f0" fill-rule="nonzero" transform="matrix(1 0 0 -1 3 5.503864)" cx="14.267" cy="2.752" rx="2.753" ry="2.752"/></svg>
