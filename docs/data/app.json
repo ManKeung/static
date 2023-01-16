@@ -9984,6 +9984,54 @@
             "desc": "",
             "class": ["dev", "tool"],
             "tag": ["ad"]
+        },
+        {
+            "type": "app",
+            "size": "1x1",
+            "edit": true,
+            "bg": "#1d1a1a",
+            "title": "web3js",
+            "url": "https://web3js.org/#/",
+            "icon": "https://mankeung.github.io/static/icons/web3js.png",
+            "createdTime": 1670930496792,
+            "updateTime": 1670930496792,
+            "showType": "img",
+            "txt": "",
+            "desc": "最全面的以太坊API",
+            "class": ["dev", "tool"],
+            "tag": []
+        },
+        {
+            "type": "app",
+            "size": "1x1",
+            "edit": true,
+            "bg": "#ffffff",
+            "title": "GoView",
+            "url": "https://mtruning.club/",
+            "icon": "https://mankeung.github.io/static/icons/gvv.svg",
+            "createdTime": 1670930496792,
+            "updateTime": 1670930496792,
+            "showType": "img",
+            "txt": "",
+            "desc": "低代码数据可视化开发平台, 开源、精美、便捷、规范、交互自然。",
+            "class": ["dev", "tool"],
+            "tag": []
+        },
+        {
+            "type": "app",
+            "size": "1x1",
+            "edit": true,
+            "bg": "#ffffff",
+            "title": "Pokémon",
+            "url": "https://poke-holo.simey.me/",
+            "icon": "https://mankeung.github.io/static/icons/pcssd.png",
+            "createdTime": 1670930496792,
+            "updateTime": 1670930496792,
+            "showType": "img",
+            "txt": "",
+            "desc": "探索口袋妖怪卡CSS的可能性，CSS动画。",
+            "class": ["dev", "tool"],
+            "tag": []
         }
     ]
 }
