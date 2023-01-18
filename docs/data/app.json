@@ -10037,7 +10037,7 @@
             "type": "app",
             "size": "1x1",
             "edit": true,
-            "bg": "#ffffff",
+            "bg": "#1a1a1a",
             "title": "Framer Motion",
             "url": "https://www.framer.com/motion/",
             "icon": "https://mankeung.gitee.io/static/icons/fm.png",
