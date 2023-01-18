@@ -10032,6 +10032,22 @@
             "desc": "探索口袋妖怪卡CSS的可能性，CSS动画。",
             "class": ["dev", "tool"],
             "tag": []
+        },
+        {
+            "type": "app",
+            "size": "1x1",
+            "edit": true,
+            "bg": "#ffffff",
+            "title": "Framer Motion",
+            "url": "https://www.framer.com/motion/",
+            "icon": "https://mankeung.gitee.io/static/icons/fm.svg",
+            "createdTime": 1670930496792,
+            "updateTime": 1670930496792,
+            "showType": "img",
+            "txt": "",
+            "desc": "一个开放源代码、可用于web上React的动画库。",
+            "class": ["dev", "tool"],
+            "tag": []
         }
     ]
 }
