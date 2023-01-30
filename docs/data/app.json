@@ -10640,6 +10640,22 @@
             "desc": "码良,开源可视化搭建平台,免费可视化搭建平台,在线网页制作平台,网页制作,傻瓜建站系统",
             "class": ["dev", "tool", "efficiency"],
             "tag": []
+        },
+        {
+            "type": "app",
+            "size": "1x1",
+            "edit": true,
+            "bg": "#ffffff",
+            "title": "uTools",
+            "url": "https://u.tools/",
+            "icon": "https://mankeung.gitee.io/static/icons/ut.ico",
+            "createdTime": 1670930496792,
+            "updateTime": 1670930496792,
+            "showType": "img",
+            "txt": "",
+            "desc": "uTools 是什么? uTools 是新一代效率工具平台，自由组合插件应用，打造专属你的趁手工具集",
+            "class": ["tool", "software-system"],
+            "tag": []
         }
     ]
 }
