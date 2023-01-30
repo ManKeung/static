@@ -4757,7 +4757,7 @@
             "type": "app",
             "size": "1x1",
             "edit": true,
-            "bg": "#1f1d2b",
+            "bg": "#ffffff",
             "title": "RunJS",
             "url": "https://runjs.work/",
             "icon": "https://mankeung.gitee.io/static/icons/runjs.png",
