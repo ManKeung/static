@@ -10416,6 +10416,22 @@
             "desc": "",
             "class": ["dev", "tool"],
             "tag": []
+        },
+        {
+            "type": "app",
+            "size": "1x1",
+            "edit": true,
+            "bg": "#ffffff",
+            "title": "WHATWG",
+            "url": "https://spec.whatwg.org/",
+            "icon": "https://mankeung.gitee.io/static/icons/whatwg.svg",
+            "createdTime": 1670930496792,
+            "updateTime": 1670930496792,
+            "showType": "img",
+            "txt": "",
+            "desc": "WHATWG致力于许多技术，这些技术是web平台的基础部分。它们是根据编辑这些技术标准的人的偏好而任意组织的。",
+            "class": ["dev", "doc", "study"],
+            "tag": []
         }
     ]
 }
