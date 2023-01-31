@@ -10656,6 +10656,38 @@
             "desc": "uTools 是什么? uTools 是新一代效率工具平台，自由组合插件应用，打造专属你的趁手工具集",
             "class": ["tool", "software-system"],
             "tag": []
+        },
+        {
+            "type": "app",
+            "size": "1x1",
+            "edit": true,
+            "bg": "#ffffff",
+            "title": "web-see",
+            "url": "https://github.com/xy-sea/web-see",
+            "icon": "https://mankeung.gitee.io/static/icons/websee.png",
+            "createdTime": 1670930496792,
+            "updateTime": 1670930496792,
+            "showType": "img",
+            "txt": "",
+            "desc": "一款自研的前端监控SDK，可用来收集并上报：代码报错、性能数据、用户行为、加载资源、个性化指标等数据",
+            "class": ["tool", "dev"],
+            "tag": []
+        },
+        {
+            "type": "app",
+            "size": "1x1",
+            "edit": true,
+            "bg": "#000000",
+            "title": "rrweb",
+            "url": "https://www.rrweb.io/",
+            "icon": "https://mankeung.gitee.io/static/icons/rrweb.png",
+            "createdTime": 1670930496792,
+            "updateTime": 1670930496792,
+            "showType": "img",
+            "txt": "",
+            "desc": "",
+            "class": ["tool", "dev"],
+            "tag": []
         }
     ]
 }
