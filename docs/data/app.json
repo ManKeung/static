@@ -11136,6 +11136,54 @@
             "desc": "JavaScript代码规范",
             "class": ["dev", "doc"],
             "tag": []
+        },
+        {
+            "type": "app",
+            "size": "1x1",
+            "edit": true,
+            "bg": "#ffffff",
+            "title": "n8n",
+            "url": "https://n8n.io/",
+            "icon": "https://mankeung.gitee.io/static/icons/n8n.ico",
+            "createdTime": 1670930496792,
+            "updateTime": 1670930496792,
+            "showType": "img",
+            "txt": "",
+            "desc": "n8n是一个免费的、源代码可用的工作流自动化工具-安装在prem上，下载我们的桌面应用程序或注册我们的云服务",
+            "class": ["dev", "tool"],
+            "tag": []
+        },
+        {
+            "type": "app",
+            "size": "1x1",
+            "edit": true,
+            "bg": "#ffffff",
+            "title": "Grafana",
+            "url": "https://grafana.com/",
+            "icon": "https://mankeung.gitee.io/static/icons/grafana.png",
+            "createdTime": 1670930496792,
+            "updateTime": 1670930496792,
+            "showType": "img",
+            "txt": "",
+            "desc": "Grafana是每个数据库的开源分析和监控解决方案。",
+            "class": ["dev", "tool"],
+            "tag": []
+        },
+        {
+            "type": "app",
+            "size": "1x1",
+            "edit": true,
+            "bg": "#ffffff",
+            "title": "WebGL中文网",
+            "url": "http://hewebgl.com/",
+            "icon": "https://mankeung.gitee.io/static/icons/webgl.png",
+            "createdTime": 1670930496792,
+            "updateTime": 1670930496792,
+            "showType": "img",
+            "txt": "",
+            "desc": "",
+            "class": ["dev", "study", "doc"],
+            "tag": ["ad"]
         }
     ]
 }
