@@ -11712,6 +11712,22 @@
             "desc": "Ant Download Manager（蚂蚁下载器）是一款操作简单且便捷实用的下载管理器，支持浏览器集成插件，支持音视频、图片等多媒体及软件和各种文件等，功能齐全，有需要快来下载吧。",
             "class": ["software-system", "tool"],
             "tag": []
+        },
+        {
+            "type": "app",
+            "size": "1x1",
+            "edit": true,
+            "bg": "#ffffff",
+            "title": "Telegram",
+            "url": "https://www.telegarms.vip/",
+            "icon": "https://mankeung.gitee.io/static/icons/t_g.svg",
+            "createdTime": 1670930496792,
+            "updateTime": 1670930496792,
+            "showType": "img",
+            "txt": "",
+            "desc": "Telegram比任何其他应用程序传递消息的速度都快。强大的Telegram对媒体和聊天的大小没有限制。",
+            "class": ["software-system", "tool"],
+            "tag": []
         }
     ]
 }
