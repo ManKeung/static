@@ -11696,6 +11696,22 @@
             "desc": "与任何其他CSS语言相互转换。",
             "class": ["dev", "tool"],
             "tag": []
+        },
+        {
+            "type": "app",
+            "size": "1x1",
+            "edit": true,
+            "bg": "#ffffff",
+            "title": "蚂蚁下载器",
+            "url": "https://antdownloadmanager.com/",
+            "icon": "https://mankeung.gitee.io/static/icons/ant.png",
+            "createdTime": 1670930496792,
+            "updateTime": 1670930496792,
+            "showType": "img",
+            "txt": "",
+            "desc": "Ant Download Manager（蚂蚁下载器）是一款操作简单且便捷实用的下载管理器，支持浏览器集成插件，支持音视频、图片等多媒体及软件和各种文件等，功能齐全，有需要快来下载吧。",
+            "class": ["software-system", "tool"],
+            "tag": []
         }
     ]
 }
