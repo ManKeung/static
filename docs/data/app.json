@@ -11728,6 +11728,22 @@
             "desc": "Telegram比任何其他应用程序传递消息的速度都快。强大的Telegram对媒体和聊天的大小没有限制。",
             "class": ["software-system", "tool"],
             "tag": []
+        },
+        {
+            "type": "app",
+            "size": "1x1",
+            "edit": true,
+            "bg": "#ffffff",
+            "title": "vpn",
+            "url": "https://www.vpngate.net/cn/",
+            "icon": "https://mankeung.gitee.io/static/icons/vpn.png",
+            "createdTime": 1670930496792,
+            "updateTime": 1670930496792,
+            "showType": "img",
+            "txt": "",
+            "desc": "通过使用 VPN 连接经由全世界志愿者提供的公共 VPN 服务器获得自由访问互联网。绕过您的本地故障防火墙的数据包拦截，并安全地隐藏你的 IP 地址。安全加密的 Wi-Fi 信号。当你通过互联网发送信息时，保护您的隐私。",
+            "class": ["software-system", "tool"],
+            "tag": []
         }
     ]
 }
