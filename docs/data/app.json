@@ -11824,6 +11824,22 @@
             "desc": "CSSmatic 是网页设计师的终极工具。它具有渐变生成器、边界半径、噪声纹理和 BoxShadows。“CSSmatic”是一个非盈利项目，由开发人员为开发人员制作。",
             "class": ["dev", "tool"],
             "tag": []
+        },
+        {
+            "type": "app",
+            "size": "1x1",
+            "edit": true,
+            "bg": "#ffffff",
+            "title": "前端里",
+            "url": "http://www.yyyweb.com/",
+            "icon": "https://mankeung.gitee.io/static/icons/qdl.ico",
+            "createdTime": 1670930496792,
+            "updateTime": 1670930496792,
+            "showType": "img",
+            "txt": "",
+            "desc": "前端里专注于分享最前沿的Web开发技术，教程，资源和素材，是面向网站开发人员和设计师的学习交流平台。",
+            "class": ["dev", "tool", "nav"],
+            "tag": ["ad"]
         }
     ]
 }
